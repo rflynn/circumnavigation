@@ -26,10 +26,6 @@ Storytelling:
 	and the evidence we have of his personality on previous tours of duty... without this being
 	a strict linear history of Spain or Portugal or even a biography of Magellan.
 
-
-
-Ferdinand Magellan (Fernão de Magalhães) (Fernando de Magallanes)
-
 Proceed:
 	Approximate timeline that breaks the story into manageable pieces by time and location
 
@@ -96,7 +92,8 @@ Principal Characters
 
 	The Armada de Molucca
 		Trinidad
-			Ferdinand Magellan (Captain General) [Protagonist / The Leader / Principles Zealot / Well-Intentioned Extremist]
+			Ferdinand Magellan (Fernão de Magalhães) (Fernando de Magallanes)
+				(Captain General) [Protagonist / The Leader / Principles Zealot / Well-Intentioned Extremist]
 			Estêvão Gomes (pilot major)
 			Gonzalo Gómez de Espinosa (algacil / master at arms)
 			Francisco Albo (pilot)
@@ -216,11 +213,20 @@ Topics / Themes / Dimensions:
 Things to Stress / How to show
 	The age (Age of Discovery, Age of Sail)
 		Ancient oar-propelled galleys were still in mainstream use
-		Ptolemy's geography and astrology was considered state-of-the-art
+		State-of-the-art knowledge:
+			Ptolemy's geography and astrology
+			Pliny the Elder's 'Natural History'
+		Maps/charts were top secret
 		Cosmography maps the general features of the universe, describing both heaven and Earth
+		Popular travel stories:
+			The Travels of Marco Polo
+			The Travels of Sir John Mandeville
+			(Prester John)
 		The Spanish Inquisition was ongoing, explains ethnocentrism, intolerence and torture
 		Columbus had just discovered the Carribean only a generation before
 		1519–21: Hernán Cortés leads the Spanish conquest of Mexico.
+	Magellan's love for Christianity and for king and country and his overall passion and boldness
+		contrast the repeated, cold dismissal by Manuel
 	The insane value of cloves and spices: compare/contrast human life, gold, narcotics, etc.
 		support by showing how awful food was without it, and how it was used in medicines, etc
 		CONTRAST the wealth of the Spice Islands as reported in Serrao's letters
@@ -240,13 +246,16 @@ Things to Stress / How to show
 		demonstrate via Magellan and Serrao's histories of their ships striking reefs
 	How cold it was in Patagonia
 	The Fillipino pride over Magellan's defeat and death at Mactan
+		every year they hold "Kadaugan sa Mactan" on Cebu (?) to commemorate Lapu Lapu's defeat
 		Lapu-Lapu vs. Magellan in combat-style video game http://www.youtube.com/watch?v=-fDC3YA7Kww
 	The legacy of Christianity in The Philippines
 	The danger of traversing the Cape of Good Hope
 		60 foot rogue waves(!)
 
 Transitions during the story
-	The excitement of Magellan's time sailing the Indies 1505-1512, and his 
+	The insulation of persistent cultural society of upper-crust Europe to the exposure to the
+		uncaring sea and land of undeveloped parts of the world
+	The excitement of Magellan's time sailing the Indies 1505-1512, and his attempts to reunite with Serrao
 	Francisco Serrão from Magellan's brother in arms to Spice Island then to death
 		...imagine a Godfather-style power consolidation series between Ternate and Tidore
 		Magellan's motivation is partly fueled by nostalgia for Serrão and the good times they had in their youth
@@ -254,6 +263,7 @@ Transitions during the story
 		In 1519 Charles is ~18, when they return he is 21 and Holy Roman Emperor
 		In 1521 he is negotiating to mary Manuel's daughter Isabel for political reasons
 	Leadership: Magellan rules with a strong hand and singular vision, after his death the ships are not properly maintained and go astray
+	The Eastern façade of the Cathedral of Seville was begun in 1519 and completed in 1522
 	Rats are thrown overboard at first, but are eaten later as food runs out
 	Magellan's religious fervor grows; up until Cebu/Mactan it is positive
 		...begins conversions peacefully as a show of honor with great success, but eventually attacks anyone who DOESN'T convert
@@ -264,11 +274,15 @@ Climaxes:
 	Downer Ending: most of the men die of malnutrition, Epinosa loses his ship, nearly half the remaining men are captured by the Portugese in the Verdes
 
 Reveals
-	the mutiny of Quesada
+	Quesada mutiny
 	the Strait
+	Pacific side
+	the true size of the Pacific
 	Magellan's heavy-handedness in killing natives
-	Manuel
 	Portugal already had access to the Spice Islands, which is why Manuel repeatedly turned Magellan down
+
+Temporal Juxtapositions
+	Quesada's mutiny / the oath of loyalty by the officers in the church before they left
 
 Perception / Symbology / Visual Stylistic Interpretation
 	Magellan and Pigafetta have been compared to Don Quixote and Sancho Panza
@@ -312,6 +326,10 @@ What do we learn about storytelling from history-based Hollywood film?
 	Magellan films/series:
 		Films containing Ferdinand Magellan: http://www.imdb.com/character/ch0027108/
 		Magellán (1977) http://www.imdb.com/title/tt0125387/
+
+In order to make this more Hollywood:
+	Need to emphasize female roles and love
+	Emphasize action
 
 Scurvy
 	Early symptoms are malaise and lethargy. After 1–3 months, patients develop shortness of breath and bone pain. Myalgias may occur because of reduced carnitine production. Other symptoms include skin changes with roughness, easy bruising and petechiae, gum disease, loosening of teeth, poor wound healing, and emotional changes. Dry mouth and dry eyes similar to Sjögren's syndrome may occur. In the late stages, jaundice, generalized edema, oliguria, neuropathy, fever, and convulsions, and eventual death are frequently seen.
