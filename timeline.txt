@@ -11,8 +11,8 @@
 1508		sailed in a fleet of four ships from Cochin on the Malabar coast to Malacca. -- Southern Voyages, Morison p316
 1509        he fought in the battle of Diu[3] and later sailed under Diogo Lopes de Sequeira in the first Portuguese embassy to Malacca, with Francisco Serrão, his friend and possibly cousin.
 1509 Sep    after arriving at Malacca, the expedition fell victim to a conspiracy ending in retreat. Magellan had a crucial role, warning Sequeira and saving Francisco Serrão, who had landed. This performance earned him honors and a promotion.
-			Here Magellan distinguished himself by giving warning of a Malay plot to capture the ships when most of their crew was ashore, and thereby thwarting it. -- Moris
-1510 Jan    2 ships of a homeward convoy from Cochin with Magellan on board, struck on the Padre shoals near the Maldive Islands. Magellan took command, sent the ships' boats with the captains and gentlemen passengers to Cannanore -- a journey of 8 days -- and himself remained in charge of the 2 wrecks with the greater part of the crews. They, but for confidence in him, would have rushed the boats to get away, or starved. During the several weeks before a rescue vessel arrived, Magellan had the wrecked hulls, shored up for safety, kept constant watch against a pirate attack, took care that rations were served out fairly and there was no pilfering of the valuable cargo. It was considered so remarkable for an officer to do that instead of saving himself that even historians who considered him a traitor to Portugal praised his courage and his men's loyalty. Magellan was always a sailor's sailor, and "os rudos marinheiros" (the rough sailors), as Camöens called the common "matlow" of that era, always stood by him in his contests with officers. -- Moris p316
+			Here Magellan distinguished himself by giving warning of a Malay plot to capture the ships when most of their crew was ashore, and thereby thwarting it. -- Morison
+1510 Jan    2 ships of a homeward convoy from Cochin with Magellan on board, struck on the Padre shoals near the Maldive Islands. Magellan took command, sent the ships' boats with the captains and gentlemen passengers to Cannanore -- a journey of 8 days -- and himself remained in charge of the 2 wrecks with the greater part of the crews. They, but for confidence in him, would have rushed the boats to get away, or starved. During the several weeks before a rescue vessel arrived, Magellan had the wrecked hulls, shored up for safety, kept constant watch against a pirate attack, took care that rations were served out fairly and there was no pilfering of the valuable cargo. It was considered so remarkable for an officer to do that instead of saving himself that even historians who considered him a traitor to Portugal praised his courage and his men's loyalty. Magellan was always a sailor's sailor, and "os rudos marinheiros" (the rough sailors), as Camöens called the common "matlow" of that era, always stood by him in his contests with officers. -- Morison p316
 1511        Governor Afonso de Albuquerque sent a fleet under Antonio d'Abreu to conquer Malacca and Magellan and Serrão participated. Malacca fell after a siege of six weeks. Here the Portuguese received breath-taking accounts of the Spice Islands (the Moluccas). Albuquerque decided without delay to reconnoiter this spicy paradise.
 			Three ships were equipped: Abreu commanded Santa Catarina, Serrão the Sabaia and Magellan a caravel. With help of a local pilot they reached Ambon and Banda. Nutmegs were plentiful and Abreu loaded up and went back to Malacca. -- Morris p.317
 			Serrão's vessel struct a reef and became a total loss. By a ruse he captured the vessel of some pirates who were looking for him, and in her sailed back to Ambon and on to Ternate. Thence he wrote enthusiastic letters to his friend Magellan about the amenities of the Spice Islands and the abundance of clove, cinammon and nutmeg.
@@ -41,6 +41,7 @@
 ??????????  Pigafetta follows Pope's emissary Andrea Chiericati to Spain...
 ??????????  Magellan finalizes his will, leaving money and freeing Enrique (and leaving him 10k maravedis) upon his death
 
+1519 Feb?   Magellan's wife Beatriz gives birth to a boy, Rodrigo
 1519 Feb 28 Charles writes to Manuel from Barcelona to assure him the fleet is instructed to respect the Treaty of Tordesillas
 
 1519 May  8 Final voyage instructions issued by King Charles
@@ -71,18 +72,147 @@
 1519 Aug ?  It is clear to Magellan, Pigafetta and others that his officers are hostile
             Magellan gives his captains strict orders to follow him and report to his ship daily
 1519 Sep 20 Armada leaves Sanlucar for the Ocean Sea
-1519 Sep ?  Armada reaches Canary Islands; 3.5 days to load provisions, etc.
-            Magellan is swindled by suppliers while buying provisions, receiving only ~1/3 of what he pays for
+1519 Sep 26 Armada reaches Tenerife in the Canary Islands; 3.5 days to load provisions, etc.
+				water, wood, fresh meat, salt codfish from a caravel, pitch for caulking seams
+            Magellan purchases privisions but is swindled by suppliers, receiving only ~1/3 of supplies
 			Magellan receives a secret communique from his father-in-law Diogo Barbosa warning him the other captains will mutiny at first chance; he replies that he will do his best; Barbosa shows this to the Casa
 			Magellan hears news that Manuel has dispatched 2 fleets of caravels to arrest him (Manuel's father did the same thing to Columbus)
-1519 Oct  3 Magellan orders the Armada to set sail in an unorthodox path along the coast of Africa to thwart the pursuing Portuguese
-1519 Dec  ? St. Elmo's fire appears on Trinidad's yardarms
-1519 Dec  ? Cartagena intentionally disrespects Magellan and henceforth fails to salute for several days
-1519 Dec  ? Antonio Salamon convicted of sodomizing a cabin boy; sentenced to death on Dec 20
+1519 Oct  3 Depart Tenerie at midnight, in an unorthodox path along the coast of Africa to thwart the pursuing Portuguese
+1519 Oct 18 A series of storms off the coast of Sierre Leone -- furious squalls interspersed with flat calms in which shoals of sharks cruised around (Morison)
+            St. Elmo's fire appears on Trinidad's yardarms for 2 hours; Pigafetta says sailors were blind for 15 minutes after it went out
+1519 Oct?   Fleet hits equatorial calms for 5 days; oppressive heat
+1519 Oct?   Cartagena intentionally disrespects Magellan and henceforth fails to salute for several days
+1519 Oct?   Antonio Salamon convicted of sodomizing a cabin boy; sentenced to death on Dec 20
             A captain's meeting is held aboard the Trinidad, Cartegena declared he would no longer take orders from Magellan, Magellan takes Cartagena prisoner, Cartagena implores other captain's to stab Magellan but they lose their nerve. Cartagena is secured to stocks on deck meant for common seamen. Magellan relieves Cartagena of duty and releases him to Mendoza aboard the Victoria.
-1513 Dec 13 Armada enters Bay of St. Lucy and approached Rio de Janeiro
+			Antonio de Coca made captain of the San Antonio in Cartagena's stead
+1519 Nov?   Finally float out of the doldrums
+            Concepcion's pilot Joao Lopes Carvalho brought to the Trinidad because he had been to Brazil before and knew it better than Gomez did
+			Magellan had 'Livro de Marinharia' a fairly accurate map of the Brazil coastline down to 35N
+1519 Nov 29 Armada raises Cape Saint Augustine (8'20'S). Pauses to take on fresh food and water.
+1519 Dec ?  Avoided Portuguese feitoria (trading post) @ Recife they passed by
+
+1519 Dec 13 Armada passes Cape Frio and enters Bay of St. Lucy approaching Rio de Janeiro
+            "Trinidad proudly led the way through the chanel, past the now famous Pao de Acucar (Sugar Loaf), and anchored further up the harbor, off the site of the city, in seven fathom. Since this was the feast day of St. Lucy, Magellan named the bay Santa Luzia after her (but Coelho and Vespucci had already entered it in Jan 1502 and named in Rio de Janeiro)." -- Morris, p.361
+1519 Dec 13+ Sailors enjoy 2 weeks of orgies with young naked native girls by paying their brothers with "German knives of the worst quality"
+            Nightly revels were held ashore under a waning moon; more attractive girls are given nicer gifts
+			One girl sneaks aboard the ship and steals an iron nail by putting it in her vagina
+            Carvalho's Brazilian mistress shows up with his never-before-seen son; Carvalho signs the boy up as a criado (servant), but could not persuade Magellan to take the mother along
+			Traded with playing cards for chickens, hatchets for slaves (Magellan forbade this)
+1519 Dec 13+Coca releases Cartagena and other prisoners(?)
+            Magellan sent Gomez de Espinosa with men-at-arms to put the mutiny down
+				entrusts safe-keeping of Cartagena and Coca to Mendoza aboard the Victoria
+				appoints his supernumerary cousin Alvaro de Mezquita as captain of the San Antonio
+					this was a mistake, not only in passing over many other more qualified candidates, but Mezquita was not tough enough to handle the hardened men now under him
+			Magellan and pilots try to calculate Rio's longitude by timing the moon and Jupiter and comparing with an alamanc; the results were worthless
+				his pilots were very skilled, calculating the latitude to within 1 mile
+1519 Dec 25 Spent off the coast of Rio
+1519 Dec 26 Depart Rio to the sound of music and the wailing of abandoned native "brides"
+
+1519 Dec 26+Serious search for the straight begins
+1519 Dec 26+As they head south familiar northern stars (The Great Bear, Dipper) disappear below the horizon; southern stars like Southern Cross, Canopus, Formalhaut, Antares and Achenar) dominate the sky
+            "Magellan sailed as close to the shore as he dared, frequently heaving the lead [http://www.thedearsurprise.com/?p=699] and investigating every big opening." -- Morison p.363 
+1520 Jan  8 "Only once between Rio de Janeiro and River Plata, did the fleet anchor at night, the moon but four days full." -- Morison p.362
+1520 Jan 10/11 Carvalho recognizes 3 hills @ Cabo Santa Maria (now Punta del Este, uruguay)
+               rounded Isla de Lobos
+               "Monte Video"
+               Magellan names it Rio de Solis after the explorer murdered by natives in 1516
+               Rio de la Plata was expected to be the strait;
+               		the Schoner global of 1515 placed it at 35N
+					both Juan de Solis and Joao de Lisboa reported it to be there
+1520 Jan ?    Santiago, the lightest-draft vessel, sent up-river to look for an outlet
+			  Captain Serrano found the bay narrowing and shoaling
+              "found plenty of evidence that 1+ rivers  emptied into it"
+              Magellan sent the longboat of each ship to make a detailed search, while the fleet anchored at Punta del Este; they found the water to be brackish and then fresh (by taste!), proving it to be a river and not an ocean
+1520 Feb  2 Ships depart anchorage near Montevideo on Candlemas Day
+            Magellan is convinced it can't be much further
+            Magellan starts south with a full moon
+1520 Feb  3?Anchors off Cabo San Antonio
+1520 Feb 13 anchored off Bahia Blanca, terrific thunderstorm, the cables hold
+            particularly beautiful St. Elmo's fire played upon the spars, comforting the sailors
+1520 Feb 13+Magellan explores around islands of Bahia Blanca
+1520 Feb 13+Magellan adopts 24-hour sailing schedule to cover the most ground on dwindling supplies, sailing 1 league from land by day and 5-6 offshore by night
+1520 Feb 24 at 40'40'S Magellan disregards the south bay-within-the-bay as a dead end, which it was
+            Names it Bahia sin fondo (Bottomless Bay) because his dipsey lead wouldn't reach bottom
+1520 Feb 27 lay off a broad bay they called Bahia de los Patos with many penguins (penguins were called 'patos sin alas' -- wingless ducks in Europe)
+            Cabo dos Bahias: Boat sent ashore to slaughter elephant seals and penguins caught in gale, which blew the rest of the fleet out to sea, stranding the men. It was so cold the men had to cover themselves with dead seals and penguins to avoid freezing to death! When the fleet returned to rescue them, they smelled horribly.
+1520 Mar    For 3 weeks they made only 120 miles, battered constantly by storms and no sun.
+1520 Mar ?  Bahia de los Trabajos (now Port Desire) @47'46'S
+			Darwin calls it "a wretched place"
+            "Storm after storm now pursued the fleet. These were the imfaous 'pamperos' line squals that blow with great ferocity off the land. Six stormy days were ridden out in a small bay" -- Morison, p.366
+1520 Mar 31 Puerto San Julian
+			Magellan announces to the 5 leaders the fleet would overwinter until better weather and imposes half rations
+			The Captains implore Magellan to restore rations and sail home to Spain. Magellan replies he would rather die than give up his quest for the Strait.
+				the king has ordered it, there was plenty of food in Puerto San Julian and they still had enough bread and wine from Spain...
+			
+
+1520 Apr-Aug Overwintering in Puerto San Julian
+1520 Apr  1 Palm Sunday: Magellan summons officers to hear Mass ahore, invites captains to dine in the flag cabin; only his cousin Alvaro de Mezquita shows up
+            That night: mutineers (captains Quesada, Mendoza and Cartagena) capture 3 ships: San Antonio, Concepcion and Victoria
+
+1520 Apr  2 Monday of Holy Week: Quesada notifies Magellan of mutiny by longboat
+            Magellan sends in Espinosa with a letter and instructions to kill if necessary, Mendoza laughs at the letter and is stabbed through the neck and head
+			Duarte Barbosa is named captain of the Victoria
+			That night: Quesada loses his nerve and tries to sneak Concepcion and San Antonio out...
+				but crew on Concepcion loyal to Magellan cut the Concepcion's cable til she drifted within range of Trinidad
+				Quesada stands on deck in full armor as Trinidad delivers a point-blank broadside and then crossbow and lance fire(!). The crew is stunned.
+				Magellan has himself rowed to Concepcion and boards her and with sword drawn forces Quesada to relent
+				Quesada and Coca are clapped in irons aboard Trinidad
+				Espinosa rows Magellan to San Antonio; Cartagena, in armor, refuses his hail; Espinosa boards armed and captures Cartagena.
+1520 Apr  3 Tuesday of Holy Week: Mendoza's body is taken ashore and quartered, he is cried throughout the fleet as a traitor
+			"There followed a grim celebration of Easter Sunday" -- Morison, p.372; (?) I don't get it...
+			Magellan calls a court-martial: Mendoza, Cartagena, Coca, Elcano, Quesada, Quesada's servant Molino guilty of treason and sentenced to death
+				Molino spared by BEHEADING HIS OWN MASTER WITH A SWORD(!) (after asking forgiveness)
+				Quesada's body was hanged on a gibbet next to Mendoza's remains
+				Magellan commuted all other sentences to hard labor... a mistake in the case of Cartagena
+			It is clear by this point that the men trust him (more or less), because they remain (mostly) loyal to him during the attempted mutinies
+
+1520 Apr  ? Cartagena uses one of the chaplains, Pero Sanchez de Reina, to stir up fresh mutiny(!)
+			Another court-martial finds them both guilty; but Magellan would not execute a priest nor a captain appointed by the king, so he sentenced them to be marooned.
+1520 May    Sailors are kept busy...
+				building barracks on shore
+				hunting and fishing
+				extracting salt from a natural alt pan to the north and preserving their catches
+				making guanaco- and-seal-skin coats
+				the ships got extensive maintenance
+					they were unloaded
+						during unloading it was realized that they had only 6 months of supplies, not 1.5 years as they had purchased
+							Morison says it was from the Sevillians; Bergreen says Canaries...
+							"an ingenious method of fraudulent accounting..." find out more details
+					even the ballast was removed and cleaned
+					
+1520 May  3 Santiago under Serrano to scout for the Strait and/or provisions
+
+1520 May 22? Santiago runs aground 3 leagues south of Rio Santa Cruz; all but one men jumped off; the ship was pulled out to sea and run aground again
+				Morison doesn't specifically mention her breaking up, Bergreen i think does...
+		    2 men are sent north to walk (Bergreen "24 leagues") to Puerto San Julian 
+		    	They construct a raft out of Santiago's timbers to cross the river
+				They walk north 11 days in the cold with little to eat (ferns and roots, no luck hunting...)
+					"The path was rough and full of thorns"
+					No fresh water, they resorted to melting snow
+					How would these men sleep?
+					They were unrecognizably gaunt when they arrived
+				They successfully inform Magellan's men; afraid of losing another ship sends a rescue party south overland with supplies to retrieve the crew
+			Horrible ordeal, but everyone survived(!)
+			Bergreen explains it best p.155-159
+
+1520 Jun?   The wreck and rescue of the Santiago rattles Magellan deeply because it becomes more clear how dangerous the mission is; he reassigns captains to those most loyal to him: Mesquita stays with San Antonio, Duarte Barbosa to Victoria, Serrano to Concepcion
+
+1520 Jun?   First Patagonian seen
+            Gave him rosary beads, tinkly hawks' bells, a comb and a mirror
+			"The poor savage was so terrified at seeing his hairy mug in the mirror that he recoiled, knocking down, as he did so, four little Spaniards."
+			"Other natives turned up with their tame guanaco and their beasts of burden -- the women."
+			"The men, to amuse the Spaniards, performed a primitive version of the old sword-swallowing trick, shoving arrows down their gullets and drawing them out without hurt."
+			18 Patagonians were entertained on board the ships
+				1 stayed on the ship for a week, allowed himself to be christened Juan, and learned to say 'Jesu, Ave Maria'. He ate all the mice and rats tat were caught on board, and left clothed and apparently happy. But he never turned up again.
+			This story tells us:
+				Gives us a hint at the mass conversions that will happen later
+				At this point Magelan's men still throw away rodents
+			2 weeks later 4 natives appeared and Magellan kidnapped 2 via a trick; he heaped their cupped hands with trading truck, then slapped pairs of leg irons on 2 of them. The natives like them at first until they realized they were tricked
+
+
 
 1521 Jan 28 Charles V presides over the Diet of Worms
+1521 ?      Magellan's wife Dona Beatriz dies (of a broken heart)
 1521 May 25 The Edict of Worms by Emperor Charles V declares Luther a heretic and outlaw for his Ninety-Five theses and offering a reward for his capture.
 1521 Dec 13 King Manuel I dies in Lisbon, Kingdom of Portugal at age 52
 1523        Fonseca clashed with Hernan Cortés, conqueror of Mexico, which led to his removal from office in 1523, the year before his death. Over his long career Fonseca inevitably made many enemies, most notably Bartolomé de las Casas, known as the Defender of the Indians, who denounced him for his indifference to the cruelties that Spanish settlers inflicted on the native population of the new lands. 

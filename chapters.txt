@@ -1,0 +1,54 @@
+
+Given the contents of timeline.txt, this is a summary of how the story will be broken up into
+issues / chapters.
+
+The circumnavigation (Seville -> Seville) will be told linearly with little or no introduction --
+I want action from the beginning.
+The backstory will be filled in non-linearly, revealing enough to explain the journey as it moves
+forward.
+The key to the success of storytelling: character development, drama, suspense, pacing etc. will
+be in dividing the chapters appropriately and filling in the right backstory at the right time.
+
+Introductions:
+	Religious enthusiasm: via Patagonia natives' interactions, via Magellan's dreams
+	Beatriz family: flashbacks from Magellan; also in dreams
+	Rui Faleiro: has given Magellan a (quadrant or map) with 'RF' on it
+
+Start: Leaving from Seville with artillery blasts
+Linear: introduce the 16th century world, Seville, casting off, negotiating the river, introducing some of the captains and life aboard a ship
+	"The World": Cantino planisphere 1502
+End: introducing... Magellan
+
+Linear:
+	Sanlucar
+	praying at the church
+	introduce the dynamics between Magellan and his men
+Flashback: emphasize Magellan's religiousity
+End: into... the Ocean Sea
+
+Linear: sail to the Canary Islands, take on provisions, cheated by swindlers, receives word
+Flashback: King Manuel 
+End: raise anchor, we sail tonight!
+
+Linear: 
+Flashback: Magellan's instructions to the captains (because he doesn't trust tem)
+End: 
+
+Linear: 
+Flashback: 
+End: 
+
+Linear: 
+Flashback: 
+End: 
+
+Start: 
+Linear: 
+Flashback: 
+End: 
+
+Start: 
+Linear: 
+Flashback: 
+End: 
+

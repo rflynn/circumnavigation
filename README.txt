@@ -74,8 +74,11 @@ Sources / References: books, journals, testimony, logs, maps, etc.
 		early history by Portguese historian João de Barros?
 
 	Related:
+		Voyage of the Beagle: another European perspective on South American coastline
+			includes illustrations
 		Kon-Tiki: Across the Pacific in a Raft
 			smashing into a reef at Raroia in the Tuamotu Islands
+
 	New Amsterdam Island / Île Amsterdam
 		French Captain Pierre François Péron, born in 1769 at Lambézellec, near Brest was marooned three years (from 1792 to 1795). He wrote an account about being marooned for 40 months gathering sealskins on that lonely Southern Indian Ocean island.
 
@@ -106,7 +109,7 @@ Principal Characters
 			Cristóvão Rebelo (Magellan's illegitmate son, supernumerary)
 		San Antonio
 			Juan de Cartagena (captain and inspector general)
-			Antonio de Coca (fleet accountant)
+			Antonio de Coca (Fonseca's nephew / fleet accountant / spy)
 			Andres de San Martin (astrologer and pilot)
 			Juan de Elorriaga (master)
 			Gerónimo Guerra (clerk)
@@ -175,6 +178,7 @@ Topics / Themes / Dimensions:
 		guanacos
 		penguins
 		sea wolves
+		others: whales, dolphins, 
 	Unexplained (to them)
 		St. Elmo's fire
 		scurvy
@@ -210,6 +214,9 @@ Topics / Themes / Dimensions:
 	Ship's health / maintenance / repairs
 		constructed from oak?
 
+Continuity
+	Calculate the phases of the Moon, position of the Sun and locations of stars/constellations during the journey based on the Armada's location and the time of year
+
 Things to Stress / How to show
 	The age (Age of Discovery, Age of Sail)
 		Ancient oar-propelled galleys were still in mainstream use
@@ -222,6 +229,8 @@ Things to Stress / How to show
 			The Travels of Marco Polo
 			The Travels of Sir John Mandeville
 			(Prester John)
+		People were smaller : average height was 5'3"
+			Sailors especially would be small, they also suffered malnutrition
 		The Spanish Inquisition was ongoing, explains ethnocentrism, intolerence and torture
 		Columbus had just discovered the Carribean only a generation before
 		1519–21: Hernán Cortés leads the Spanish conquest of Mexico.
