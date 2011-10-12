@@ -29,6 +29,13 @@ Storytelling:
 Proceed:
 	Approximate timeline that breaks the story into manageable pieces by time and location
 
+Literary devices
+	Magellan can confide in Pigafetta, who was chronicler and had ingratiated himself
+	Non-Spanish/Portuguses sailors can ask the Spanish/Portuguese sailors about things
+		que 'strappado'?
+
+"It is an old saying that God gave the Portuguese a very small country to live in, but all the world in which to die." -- The European discovery of America : the southern voyages A.D. 1492-1616, Samuel Eliot Morison. p313
+
 Questions:
 	When did Magellan meet Rui Faleiro?
 		Moris says they met in Portugal
@@ -74,10 +81,12 @@ Sources / References: books, journals, testimony, logs, maps, etc.
 		early history by Portguese historian João de Barros?
 
 	Related:
+		The Odyssey
 		Voyage of the Beagle: another European perspective on South American coastline
 			includes illustrations
 		Kon-Tiki: Across the Pacific in a Raft
 			smashing into a reef at Raroia in the Tuamotu Islands
+		The Tempest: "Caliban" was partly inspired by Pigafetta's account of the Patagonian
 
 	New Amsterdam Island / Île Amsterdam
 		French Captain Pierre François Péron, born in 1769 at Lambézellec, near Brest was marooned three years (from 1792 to 1795). He wrote an account about being marooned for 40 months gathering sealskins on that lonely Southern Indian Ocean island.
@@ -140,6 +149,11 @@ Principal Characters
 		Lapu Lapu (King of Mactan)
 		Pedro Alfonsode Lorosa (Portugese renegade who defected and was beheaded by Brito's men)
 		Antonio de Brito (Portugese-appointed governor of the Spice Islands) : [The Dragon]
+
+		Magellan's contemporaries:
+			Christopher Columbus
+			Amerigo Vespucci
+			Vasco de Gama
 
 Details
 	By ship: determine where and when each ship ended its journey
@@ -234,6 +248,10 @@ Things to Stress / How to show
 		The Spanish Inquisition was ongoing, explains ethnocentrism, intolerence and torture
 		Columbus had just discovered the Carribean only a generation before
 		1519–21: Hernán Cortés leads the Spanish conquest of Mexico.
+	The natives' POV
+		Europeans claim to have 'discovered' these islands...
+			show the anchoring of Armada de Molucca from the perspective of a Chinese merchant
+				Philippines had been doing business with Arabs, Indians and Chinese for centuries
 	Magellan's love for Christianity and for king and country and his overall passion and boldness
 		contrast the repeated, cold dismissal by Manuel
 	The insane value of cloves and spices: compare/contrast human life, gold, narcotics, etc.
@@ -253,6 +271,8 @@ Things to Stress / How to show
 		his friend Ruy Faleiro
 	The danger of sailing
 		demonstrate via Magellan and Serrao's histories of their ships striking reefs
+	The Europeans' effect on the natives
+		The transmission of disease
 	How cold it was in Patagonia
 	The Fillipino pride over Magellan's defeat and death at Mactan
 		every year they hold "Kadaugan sa Mactan" on Cebu (?) to commemorate Lapu Lapu's defeat
@@ -276,6 +296,7 @@ Transitions during the story
 	Rats are thrown overboard at first, but are eaten later as food runs out
 	Magellan's religious fervor grows; up until Cebu/Mactan it is positive
 		...begins conversions peacefully as a show of honor with great success, but eventually attacks anyone who DOESN'T convert
+	Cats appear on the ships before starvation in the Pacific, then disappear and nobody mentions it
 
 Climaxes:
 	Tragic Mistake: Magellan's choice to sidetrack their mission to violently enforce Christianity upon the Mactan

@@ -7,6 +7,7 @@
 1494 Jun  7?Treaty of Tordesillas by Pope Alexander VI divides trading and colonizing rights for all newly discovered lands between Spain and Portugal to the exclusion of other European nations
 1495        King Manuel rules Portugal
 1505 Mar    At the age of 25, Magellan enlisted in the fleet of 22 ships sent to host D. Francisco de Almeida as the first viceroy of Portuguese India. Although his name does not appear in the chronicles, it is known that he remained there eight years, in Goa, Cochin and Quilon.
+1506 May 20 Columbus dies in Valladolid, Spain at age 54. Columbus' remains were first interred at Valladolid, then at the monastery of La Cartuja in Seville (southern Spain) by the will of his son Diego, who had been governor of Hispaniola. In 1898, the remains were moved back to Spain, to the Cathedral of Seville.
 1506        Magellan participated in battle of Cannanore where he was wounded
 1508		sailed in a fleet of four ships from Cochin on the Malabar coast to Malacca. -- Southern Voyages, Morison p316
 1509        he fought in the battle of Diu[3] and later sailed under Diogo Lopes de Sequeira in the first Portuguese embassy to Malacca, with Francisco Serrão, his friend and possibly cousin.
@@ -40,6 +41,8 @@
 1518        Magellan marries Dona Beatriz, Diogo's daughter.
 ??????????  Pigafetta follows Pope's emissary Andrea Chiericati to Spain...
 ??????????  Magellan finalizes his will, leaving money and freeing Enrique (and leaving him 10k maravedis) upon his death
+
+1518 Mar 22 King Charles letter: gives Magellan "power of rope and knife"
 
 1519 Feb?   Magellan's wife Beatriz gives birth to a boy, Rodrigo
 1519 Feb 28 Charles writes to Manuel from Barcelona to assure him the fleet is instructed to respect the Treaty of Tordesillas
@@ -93,6 +96,9 @@
 
 1519 Dec 13 Armada passes Cape Frio and enters Bay of St. Lucy approaching Rio de Janeiro
             "Trinidad proudly led the way through the chanel, past the now famous Pao de Acucar (Sugar Loaf), and anchored further up the harbor, off the site of the city, in seven fathom. Since this was the feast day of St. Lucy, Magellan named the bay Santa Luzia after her (but Coelho and Vespucci had already entered it in Jan 1502 and named in Rio de Janeiro)." -- Morris, p.361
+			Their arrival coincided with heavy rains that ended a two-month drought in the region
+				"The day we arrived the rain began, so that the people said we came from heaven and had brought the rain with us" -- Pigafetta
+			As the ships came to rest, throngs of naked women, eager for contact with the sojourners, swam out to greet them. Deprived of the company of women for month's, the sailors believed they had found an earthly paradaise" -- Bergreen p.101
 1519 Dec 13+ Sailors enjoy 2 weeks of orgies with young naked native girls by paying their brothers with "German knives of the worst quality"
             Nightly revels were held ashore under a waning moon; more attractive girls are given nicer gifts
 			One girl sneaks aboard the ship and steals an iron nail by putting it in her vagina
@@ -105,8 +111,10 @@
 					this was a mistake, not only in passing over many other more qualified candidates, but Mezquita was not tough enough to handle the hardened men now under him
 			Magellan and pilots try to calculate Rio's longitude by timing the moon and Jupiter and comparing with an alamanc; the results were worthless
 				his pilots were very skilled, calculating the latitude to within 1 mile
+1519 Dec 20 Execution of Antonio Salamon by strangulation (ashore?)
+			Anontio Ginoves, the cabin boy involved in the sodomy, was lost overboard: conflicting acocunts on whether it was murder or suicide... and when?
 1519 Dec 25 Spent off the coast of Rio
-1519 Dec 26 Depart Rio to the sound of music and the wailing of abandoned native "brides"
+1519 Dec 26/27 Depart Rio to the sound of music and the wailing of abandoned native "brides"
 
 1519 Dec 26+Serious search for the straight begins
 1519 Dec 26+As they head south familiar northern stars (The Great Bear, Dipper) disappear below the horizon; southern stars like Southern Cross, Canopus, Formalhaut, Antares and Achenar) dominate the sky
@@ -143,7 +151,6 @@
 			Magellan announces to the 5 leaders the fleet would overwinter until better weather and imposes half rations
 			The Captains implore Magellan to restore rations and sail home to Spain. Magellan replies he would rather die than give up his quest for the Strait.
 				the king has ordered it, there was plenty of food in Puerto San Julian and they still had enough bread and wine from Spain...
-			
 
 1520 Apr-Aug Overwintering in Puerto San Julian
 1520 Apr  1 Palm Sunday: Magellan summons officers to hear Mass ahore, invites captains to dine in the flag cabin; only his cousin Alvaro de Mezquita shows up
@@ -182,7 +189,7 @@
 					
 1520 May  3 Santiago under Serrano to scout for the Strait and/or provisions
 
-1520 May 22? Santiago runs aground 3 leagues south of Rio Santa Cruz; all but one men jumped off; the ship was pulled out to sea and run aground again
+1520 May 22 Santiago runs aground 3 leagues south of Rio Santa Cruz; all but one men jumped off; the ship was pulled out to sea and run aground again
 				Morison doesn't specifically mention her breaking up, Bergreen i think does...
 		    2 men are sent north to walk (Bergreen "24 leagues") to Puerto San Julian 
 		    	They construct a raft out of Santiago's timbers to cross the river
@@ -207,14 +214,176 @@
 			This story tells us:
 				Gives us a hint at the mass conversions that will happen later
 				At this point Magelan's men still throw away rodents
-			2 weeks later 4 natives appeared and Magellan kidnapped 2 via a trick; he heaped their cupped hands with trading truck, then slapped pairs of leg irons on 2 of them. The natives like them at first until they realized they were tricked
+1520 Jul 28 4 natives appeared and Magellan kidnapped 2 via a trick; he heaped their cupped hands with trading truck, then slapped pairs of leg irons on 2 of them. The natives like them at first until they realized they were tricked
+			Bergreen p.167-168
 
+1520 Aug 11 Juan de Cartagena and Pero Sanchez de la Reina marooned on a small island in sight of the ships
+			No: lifeboat, firewood, scant clothing
+			Yes: bread and wine for the summer
+1520 Aug 24 Armada de Molucca weighs anchor
+			"The two condemned men kneeled at the water's edge, crying and pleading for mercy as the ships grew smaller and finally vanished over the horizon." -- Bergreen p.171
+
+1520 Oct 11 Eclipse of the sun
+1520 Oct 18 Magellan risks the open sea
+1520 Oct 21 Discovery of the 'Cape of the Eleven Thousand Virgins' @ 52 lat, 52.5 long
+			As 21 October is the feast day of Saint Ursula and the Eleven Thousand Virgins, he named the cape in their honor.
+            setting: Straight of Magellan, Tierre del Fuego
+			They call it "Strait of All Saints"
+
+1520 Oct 28 tied up at island (either Elizabeth Island or Dawson Island)
+
+1520 Oct 28+San Antonio entered Magdalen Sound
+1520 Nov 3? San Antonio fails to reappear 6 days later -- San Antonio had mutinied
+            Magellan suspects mutiny
+			San Antonio was the largest ship and carried many of the fleet's provisions in her hold
+
+1520 Nov 21 Magellan dictates a letter for Barbosa on Victora
+			They press on
+
+1520 Nov 28 Fleet reaches the Pacific!
+			Magellan calls it Cape Desire (now Cape Froward) because of his long desire and 2 year odyssey seeking it!
+			3 ships left (Trinidad:Magellan, Concepcion:Serrano, Victoria:Barbosa), ~200 men
+			They head north up the coast of (now) Chile
+
+1520 Dec  1 Albo: "morning we saw bits of land like hillocks"
+1520 Dec 18 Between Santiago, Chile and Juan Fernandez islands finally change course headed West
+			setting: ships, Pacific ocean (especially the South Equatorial current)
+1520/1 Dec/Jan Pacific was calm, winds were strong, they made excellent time
+			"for hours on end the waves slapped rhythmically against the hulls, the sails sighed and swelled contentedly in their fittings and seamen spent their idle hours playing card games or sleeping." -- Bergreen, p.209
+			Pigafetta spends time translating the willing Patagonian's language
+				he introduces him to Christianity
+				Patagonian began to weaken and fall ill
+				he was baptized and christened Paul
+				he died shortly thereafter, "presumably he was given a proper burial at sea." -- Bergreen, p.211
+				related: The Tempest: "Caliban" was partly inspired by Pigafetta's account of the Patagonian
+			Pigafetta studies birds
+			they threaded their way past many islands without ever seeing them
+				related: Kon-Tiki
+			Food situation becomes bad, scurvy begins to strike the crew
+				"Thirst and hunger tormented the crew. The seals they had butchered and salted in Patagonia turned putrid and became infested with maggots, which devoured the sails, rigging and even the sailors' clothing, rendering them all useless..." -- Bergreen, p.214
+				"The rats commanded a premium because sailors believed that eating them might offer protection against the disease they all feared: scurvy" -- Bergreen, p.214
+			Pigafetta:
+				We were 3 months and 20 days w/o any fresh food. We ate biscuits which were no longer
+				biscuit, but powder of biscuit swarming with worms, for they had eaten the good.
+				It stank strongly of the urine of rats.
+				We drank yellow water that had been putrified for many days.
+				We also ate ox hides that covered the top of the mainyard to prevent the yard from chafing
+				the shrouds, and which had become exceedingly hard because of the sun, rain and wind.
+				We left them in the sea for 4-5 days, and then placed them for a few moments on top of
+				the embers, and so ate them; and often we ate sawdust from boards. Rats were sold for
+				one half ducado apiece, and even then we could not get them.
+			Burials at sea commonplace once scruvy begins
+			Pigafetta counts 29 dead from scurvy
+
+1521 Jan 24 "San Pablo" atoll (now Puka Puka) sighted
+			Feast of the Conversion of Saint Paul
+1521 Feb  4 Caroline Island spotted
+				couldn't anchor, bottom couldn't be found
+
+1521 Feb 13 cross the equator
+
+1521 Mar  6 reach Guam "The Island of the Thieves"
+			natives steal boat
+			Magellan's men retaliate by killing 8 men
+				...then they realize the futility and stupidity of their actions
+1521 Mar  9 depart Guam
+
+1521 Mar 13 sight Samar
+
+1521 Mar 18 "they saw a boat bearing 9 men approach from the direction of Suluan"
+1521 Mar 19 Good Friday: sent Enrique ashore on Limasawa
+1521 Mar 20 
+1521 Apr  8?Magellan goes to Cebu
+			Pigafetta and other sleep with native music girls
+			Pigafetta fascinated by palang
+1521 Apr  9 
+1521 Apr 10 2 men die from scurvy
+1521 Apr 14 King Humabon is baptized
+			Other islanders join in... 2,200 baptized(!)
+1521 mid-Apr "Magellan's trajectory had reached its zenith" -- Bergreen, p.272
+			Magellan vows to baptize all islanders, by force if necessary
+1521 Apr  ? Mactan village burned
+1521 Apr 26 Mactan chief Sula brings offering of goats to Magellan, blames Lapu Lapu
+			Lapu Lapu stubbornly resisted conversion to Christianity
+			Sula offers his soldiers, Magellan decides to engage Lapu Lapu's men alone(!)
+			Magellan's men try to convince him not to involve himself in the native's fights
+				Magellan concedes to reduce men and keep ships far from shore
+
+1521 Apr 27 midnight: 60 set out, including Magellan, Pigafetta, Enrique, Magellan's son, Cristovao Rebelo, Cebuians in their own small boats
+			They arrive at Mactan 3 hours before dawn
+			Magellan sends a message to Lapu Lapu; he refuses and stalls for time by asking Magellan to delay his attack, this baffles Magellan
+			Magellan orders an attack as the sky begins to glow with approaching dawn
+			~50 men wade in armor 1/2 mile of sandbar towards shore
+			~1500 Mactanese show up on shore
+			Magellan killed
+			"After the furious battle ended, the hacked pieces of the explorer's corpse drifted aimlessly in the water near the beach at Mactan until the victorious warriors claimed them." -- Bergreen, p.286
+			more: Bergreen, p.277-287
+
+			the survivors held an election to select the next admiral
+			Enrique and (Barbosa or Serrano) argue, Enrique, furious, leaves the ship
+			Enrique plots with Humabon and returns
+
+1521 May  1 Enrique invites the Aramada's leaders to a feast on behalf of Humabon; 30 men accept
+			Pigafetta nurses a poison arrow wound and does not attend
+			Soon, Joao Lopes de Carvalho and Gonzalo Gomez de Espinosa return unexpectedly
+				they had seen Father Valderrama entering a Cebuan hut which made them nervous
+			They suddenly hear "great cries and groans", and raise anchor to approach
+				they see armed Cebuans kill 27 of the man, taking Serrano and the priest hostage
+				a few men escape and swim to the ship
+				the cables are cut and set sail immediately, as Cebuans eat the dead and launching ships
+				they bring the hostages to shore where they call for the men, promising to exchange them for ransom
+					the Armada negotiates with the Cebuans, sending them an iron gun
+					the Cebuans ask for another iron gun
+					they send another
+					the Cebuans ask for another iron gun
+					they realize that it will never end
+				the Armada abandons the hostages, and Serrano pleads for their help and curses them
+				the men on the ship shout to Serrano and they shout back
+				the ships weigh anchor and set sail
+				115 men remain
+
+1521 May  2 Concepcion is burned
+				Elcano claims its hull is infested with shipworms
+
+1521 May  6 San Antonio arrives in Seville
+			King Charles wants the money back, but there's nothing of value left
+				Charles is otherwise busy with political turmoil and does not comment on the mutiny
+1521 May  6+53 of the 55 mutineers give depositions at the Casa de Contratacion
+				They tell exaggerations and outright lies to cover themselves
+1521 May 26 Archbishop Fonseca delivers response to the depositions
+			The mutineers go free
+			Mesquita is jailed
+			Casa cuts of Beatriz's financial resources and places her under house arrest
+
+1521 Sep?   Full inquiry of San Antonio mutiny completed after 6 months
+			Diogo Barbosa bullied out of property Magellan had given to him
+
+1521 Jul  9 
+
+1521 Jul  9 
+
+1521 Jul 29 Brunei
+
+1521 Nov  8 Tridore/Ternate
+
+1521 Dec 21 Victoria leaves Spice Islands
 
 
 1521 Jan 28 Charles V presides over the Diet of Worms
-1521 ?      Magellan's wife Dona Beatriz dies (of a broken heart)
+
+1521 Feb 11 Victoria leaves Timor
+
+1521 ?      Magellan's wife Dona Beatriz dies ("broken heart")
 1521 May 25 The Edict of Worms by Emperor Charles V declares Luther a heretic and outlaw for his Ninety-Five theses and offering a reward for his capture.
 1521 Dec 13 King Manuel I dies in Lisbon, Kingdom of Portugal at age 52
+
+1522 Jan 25 Victoria arrives at Timor
+
+1522 Mar 18 
+
+1522 Jul  9 Victoria anchors in Verde Islands
+
+
 1523        Fonseca clashed with Hernan Cortés, conqueror of Mexico, which led to his removal from office in 1523, the year before his death. Over his long career Fonseca inevitably made many enemies, most notably Bartolomé de las Casas, known as the Defender of the Indians, who denounced him for his indifference to the cruelties that Spanish settlers inflicted on the native population of the new lands. 
 
 

@@ -14,11 +14,29 @@ Introductions:
 	Beatriz family: flashbacks from Magellan; also in dreams
 	Rui Faleiro: has given Magellan a (quadrant or map) with 'RF' on it
 
-Start: Leaving from Seville with artillery blasts
-Linear: introduce the 16th century world, Seville, casting off, negotiating the river, introducing some of the captains and life aboard a ship
+Non-linear sub-stories:
+	Stories of sea monsters
+	Prester John
+	Marco Polo
+	The Fall of Man
+	The Spanish Inquisition
+	The Odyssey
+	Columbus
+	King Charles rise to Emperor
+	The Chinese Treasure Fleet?
+
+How do we start? Perhaps tell it through Pigafetta's eyes... he wasn't a seaman, so we could "learn the ropes"
+through him, he had a close relationship with Megallan and could have been his confidant, he was observant,
+and most of all was enthusiastic about the trip!
+
+Start: 
+Linear:
+ 	introduce the 16th century world,
+	Seville, casting off, negotiating the river, introducing some of the captains and life aboard a ship
 	"The World": Cantino planisphere 1502
 End: introducing... Magellan
 
+Start: 
 Linear:
 	Sanlucar
 	praying at the church
@@ -26,18 +44,17 @@ Linear:
 Flashback: emphasize Magellan's religiousity
 End: into... the Ocean Sea
 
+Start: 
 Linear: sail to the Canary Islands, take on provisions, cheated by swindlers, receives word
 Flashback: King Manuel 
 End: raise anchor, we sail tonight!
 
+Start: 
 Linear: 
 Flashback: Magellan's instructions to the captains (because he doesn't trust tem)
 End: 
 
-Linear: 
-Flashback: 
-End: 
-
+Start: 
 Linear: 
 Flashback: 
 End: 
@@ -46,6 +63,21 @@ Start:
 Linear: 
 Flashback: 
 End: 
+
+Start: 
+Linear: 
+Flashback: 
+End: 
+
+Start: 
+Linear: 
+Flashback: 
+End: ¡Tierra! (Guam sighted)
+
+Start: Guam has been sighted
+Linear: 
+Flashback: 
+End: the ships weigh anchor in the distance; in the foreground the Chamorros people decorate the graves of their murdered family members
 
 Start: 
 Linear: 

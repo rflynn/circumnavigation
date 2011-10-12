@@ -28,9 +28,20 @@ heaving the lead
 Daily Routines
 -----------------------------------------------------------------------------
 
+The crew was divided into three watches which would rotate throughout the night.
+
+A strict hierarchy was maintained among the crew, and the duties of a sailor varied according to his position.
+
+
+
 sleeping
 	officers had cabins
 	sailors sleep on the deck
+		"At sea, sleep became the ultimate luxury, a solace nearly impossible to come by.
+		The crew took naps whenever they could, night or day. Hammocks had yet to be introduced
+		on board ships, so exhausted sailors appropriated a plank, or better still, a sheltered
+		area of the deck where they could sprawl. They eased the wood's bruising hardness with
+		a straw pallet, and shielded themselves against the cold and wet with heavy blankets." -- Bergreen, p.106
 
 turning the hourglasses for time-keeping
 
@@ -65,6 +76,62 @@ firing artillery:
 Pests
 -----------------------------------------------------------------------------
 
+"Pests were ubiquitous, an inescapable fact of life at sea."
+Rats and mice infested every ship
+
+Magellan's crew might have brought along a domestic creature new to Europe at the time -- the cat --
+to hunt rodents, following the practice of the day, although no record confirms that they did.
+	If they had a cat it would certainly have been eaten during the Pacific journey...
+	one day it would just disappear.
+
+"...infested with maggots, which devoured the sails, rigging and even the sailors' clothing,
+rendering them all useless..." -- Bergreen, p.214
+
 teredos / Shipworms
 	not worms at all, but rather a group of unusual saltwater clams with very small shells, notorious for boring into (and eventually destroying) wooden structures that are immersed in sea water, such as piers, docks and wooden ships. Sometimes called "termites of the sea", they are marine bivalve molluscs (Eulamellibranchiata) in the family Teredinidae, also often known as Teredo Worms.
+
+Cats were kept to control rodents
+"Domestic cats were spread throughout much of the rest of the world during the Age of Discovery, as they were carried on sailing ships to control shipboard rodents and as good-luck charms." -- Mason, I.L. (1984). Evolution of Domesticated Animals. Prentice Hall Press. ISBN 0582460468.
+
+
+
+Sailors
+-----------------------------------------------------------------------------
+stored their gear in large chests: wooden plates, eating utensils, wine jug, playing cards and books
+	books were submitted for approval and censored by the Casa (imposed by the Inquisition)
+		most devotional: lives of saints, profiles of popes, accounts of miracles, prayers for recital
+		popular stories: knights and damsels and villains
+		a few histories: Marco Polo's 'Travels'
+
+Medicine / Doctor
+-----------------------------------------------------------------------------
+mostly extracted teeth
+
+scurvy: what did they call it?
+	gums get soft and weak
+	hands and feet swell
+	eventually blood vessels dissolve and you bleed to death internally
+	officers didn't get it because they had preserved quince, which had vitamin c
+	Vasco de Gama's crew suffered the first widespread outbreak and were given oranges
+		by Arab traders, the men making a miraculous recovery; provig that Arabs were
+		accustomed to long journeys, scurvy ad knew the cure
+
+Burials
+-----------------------------------------------------------------------------
+dumped overboard... how did this go exactly?
+how were officers vs. seamen treated, Christians vs. captives?
+
+"Sailors, many of them suffering from the early stages of scurvy themselves and seeing their
+own deaths foretold, wrapped the body in a remnant of an old, tattered sail, secured it with a rope
+and tied cannonballs to the feet. A priest, and on occasion the captain, uttered a brief prayer;
+two sailors lifted the corpse onto a plant, tilted it, and committed their crewmate's mortal
+remains to the hungry sea." -- Bergreen, p.215
+
+Interaction with land
+-----------------------------------------------------------------------------
+During the Age of Discovery, ships released rabbits onto islands to provide a future food source for other travelers. They eventually multiplied out of control and cats were introduced to keep their numbers, and that of mice and rats, down. The cats tended to favor local species as they were ecologically naive and easier to hunt. Their numbers too increased dramatically and soon they colonised many areas and were seen as pests too. -- http://en.wikipedia.org/wiki/Feral_cat#History
+
+Having sex with the natives
+	Exchanging diseases
+	Mestizo children
 
