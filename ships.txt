@@ -3,7 +3,7 @@ Carrack / Nao (ship)
 Caravel
 
 "No contemporary painting or model can be identified as one of them. Victoria does indeed
-appear crossing the Pacfici, winged Victory perched on her bowsprit, in Ortelius's atlas
+appear crossing the Pacific, winged Victory perched on her bowsprit, in Ortelius's atlas
 of 1589, but she has two masts and is of a later design than any Magellanic ship." -- Morison, p.342
 
 Navigating
@@ -84,15 +84,13 @@ to hunt rodents, following the practice of the day, although no record confirms 
 	If they had a cat it would certainly have been eaten during the Pacific journey...
 	one day it would just disappear.
 
+"Domestic cats were spread throughout much of the rest of the world during the Age of Discovery, as they were carried on sailing ships to control shipboard rodents and as good-luck charms." -- Mason, I.L. (1984). Evolution of Domesticated Animals. Prentice Hall Press. ISBN 0582460468.
+
 "...infested with maggots, which devoured the sails, rigging and even the sailors' clothing,
 rendering them all useless..." -- Bergreen, p.214
 
 teredos / Shipworms
 	not worms at all, but rather a group of unusual saltwater clams with very small shells, notorious for boring into (and eventually destroying) wooden structures that are immersed in sea water, such as piers, docks and wooden ships. Sometimes called "termites of the sea", they are marine bivalve molluscs (Eulamellibranchiata) in the family Teredinidae, also often known as Teredo Worms.
-
-Cats were kept to control rodents
-"Domestic cats were spread throughout much of the rest of the world during the Age of Discovery, as they were carried on sailing ships to control shipboard rodents and as good-luck charms." -- Mason, I.L. (1984). Evolution of Domesticated Animals. Prentice Hall Press. ISBN 0582460468.
-
 
 
 Sailors
@@ -113,8 +111,8 @@ scurvy: what did they call it?
 	eventually blood vessels dissolve and you bleed to death internally
 	officers didn't get it because they had preserved quince, which had vitamin c
 	Vasco de Gama's crew suffered the first widespread outbreak and were given oranges
-		by Arab traders, the men making a miraculous recovery; provig that Arabs were
-		accustomed to long journeys, scurvy ad knew the cure
+		by Arab traders, the men making a miraculous recovery; proving that Arabs were
+		accustomed to long journeys, scurvy and knew the cure
 
 Burials
 -----------------------------------------------------------------------------
