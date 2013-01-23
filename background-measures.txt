@@ -1,0 +1,24 @@
+
+fathom: 
+    1 fathom =
+    SI units
+    1.82880 m   182.880 cm
+    US customary / Imperial units
+    6.00000 ft  72.0000 in
+
+http://en.wikipedia.org/wiki/League_(unit)#Brazil_and_Portugal
+
+Brazil and Portugal
+In Portugal, Brazil and other parts of the Portuguese Empire, there were several units called league (Portuguese: légua):
+
+Légua of 18 by degree = 6,172.4 metres
+Légua of 20 by degree = 5,555.56 metres (Maritime légua)
+Légua of 25 by degree = 4,444.44 metres
+The names of the several léguas referred to the number of units that made the length corresponding to an angle degree of a meridian arc.
+
+As a transitory measure, after Portugal adopted the metric system, the metric légua, of 5.0 km, was used.
+
+In Brazil, légua is still used occasionally in the country, where it has been described as about 6.6 km.
+
+See also: Portuguese customary units
+

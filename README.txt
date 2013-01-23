@@ -26,6 +26,12 @@ Storytelling:
 	and the evidence we have of his personality on previous tours of duty... without this being
 	a strict linear history of Spain or Portugal or even a biography of Magellan.
 
+    I also want to compare this most masterful voyage of discovery with other historical explorations,
+    specifically:
+        * Apollo 11's journey to the moon
+        * Kon-Tiki's trans-Pacific raft journey
+        * maybe Journey of the Beagle
+
 Proceed:
 	Approximate timeline that breaks the story into manageable pieces by time and location
 
