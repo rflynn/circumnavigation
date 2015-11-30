@@ -1,7 +1,8 @@
 
 allegory:
-    * use a chess game to make a point of Megallan's feelings toward the king
+* use a chess game to make a point of Megallan's feelings toward the king
 
+* 
 
 
 
